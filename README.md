@@ -35,13 +35,13 @@
   <h2>📊 GitHub Stats</h2>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohamadarif03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="mohamadarif03's GitHub stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadarif03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mohamadarif03&show_icons=true&theme=tokyonight&hide_border=true" alt="mohamadarif03's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadarif03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
   
   <br />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadarif03&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mohamadarif03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br />
   <br />
